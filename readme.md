@@ -11,8 +11,7 @@ Information and summary of the project.
 **Decativate**
 - run `deactivate` in the command line.
 
-*Note:*
-Before pushing code to the git repo you will have to deactivate the venv
+
 
 # Layout of the repo
 - `Code` - code for the project
